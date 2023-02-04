@@ -1,6 +1,6 @@
 {
-    "thechickencoop": {
-        "website": "https://sopko.net",
+    "blockpane": {
+        "website": "",
         "twitter": "",
         "github": ""
     },
@@ -24,7 +24,17 @@
         "twitter": "",
         "github": ""
     },
+    "kjnodes": {
+        "website": "",
+        "twitter": "",
+        "github": ""
+    },
     "kwak": {
+        "website": "",
+        "twitter": "",
+        "github": ""
+    },
+    "larryengineer": {
         "website": "",
         "twitter": "",
         "github": ""
@@ -39,6 +49,11 @@
         "twitter": "",
         "github": ""
     },
+    "oni": {
+        "website": "",
+        "twitter": "",
+        "github": ""
+    },
     "ottersync": {
         "website": "",
         "twitter": "",
@@ -49,12 +64,22 @@
         "twitter": "",
         "github": ""
     },
+    "pfc": {
+        "website": "",
+        "twitter": "",
+        "github": ""
+    },
     "ping": {
         "website": "",
         "twitter": "",
         "github": ""
     },
     "polkachu": {
+        "website": "",
+        "twitter": "",
+        "github": ""
+    },
+    "swissstaking": {
         "website": "",
         "twitter": "",
         "github": ""
