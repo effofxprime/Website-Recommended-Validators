@@ -34,11 +34,6 @@
         "twitter": "",
         "github": ""
     },
-    "larryengineer": {
-        "website": "",
-        "twitter": "",
-        "github": ""
-    },
     "lavenderfive": {
         "website": "",
         "twitter": "",
@@ -78,6 +73,11 @@
         "website": "",
         "twitter": "",
         "github": ""
+    },
+	"silknodes": {
+        "website": "https://silknodes.io",
+        "twitter": "https://twitter.com/silk_nodes",
+        "github": "https://github.com/Silk-Nodes"
     },
     "swissstaking": {
         "website": "",
